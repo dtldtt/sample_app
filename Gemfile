@@ -11,7 +11,6 @@ gem 'rails', '~> 5.1.4'
 gem 'bcrypt',                  '3.1.11',:require=>'bcrypt'
 # To import bootstrap
 gem 'bootstrap-sass',          '3.3.7'
-
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
